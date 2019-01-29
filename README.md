@@ -34,13 +34,17 @@ Je travaille mieux en équipe car tout seul on va plus vite, ensemble, on va plu
 Un épicier souhaite créer une application web où il peut gérer son stock à partir de ses ventes du jour. Il aura donc besoin d’une base de donnée pour gérer ses différents produits (5 maximum): Banane, Orange etc… Cette base de donnée sera géré via une interface où les fruits seront présentés par leurs respectives images. L’épicier pourra augmenter ou diminuer son stock.
 
 - 1 - Quelle technologie front choisis-tu? Pourquoi?
-    =>
+
+    => ANGULAR
 
 - 2 - Quelle technologie back choisis-tu? Pourquoi?
-    =>
+
+    => NODEjs
 
 - 3 - Quelle base de donnée utilises-tu? Pourquoi?
-    =>
+
+    => MongoDB
 
 - 4 - À combien de temps estimes-tu la charge de travail? Quand penses-tu livrer le test?
-    =>
+
+    => 1 mois

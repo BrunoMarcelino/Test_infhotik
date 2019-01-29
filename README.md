@@ -15,3 +15,18 @@ Je travaille mieux en équipe car tout seul on va plus vite, ensemble, on va plu
 - J'exploite les nouveaux technologie,
 - Je joue au DOTA 2
 - Je regarde de documentaire a propos de technologie et de nouvelle Hitech
+
+### Définition 'Front-end'
+'Front-end' c'est la partie frontale, c'est-à-dire les éléments d'un site que l'on voit à l'écran et avec lesquels on peut interagir depuis un navigateur.
+
+### Définition 'Back-end'
+
+### Définition 'API'
+
+### Définition 'Scrum'
+
+### Définition 'User stories'
+
+### Définition 'Controle de version'
+
+### EXERCICE

@@ -20,6 +20,12 @@ Je travaille mieux en équipe car tout seul on va plus vite, ensemble, on va plu
 'Front-end' c'est la partie frontale, c'est-à-dire les éléments d'un site que l'on voit à l'écran et avec lesquels on peut interagir depuis un navigateur.
 
 ### Définition 'Back-end'
+Le Back-End (un arrière-plan), c'est un peu comme la partie immergée de l'iceberg. Elle est invisible pour les visiteurs mais représente une grande partie du développement d'un projet web. Sans elle, le site web reste une coquille vide.
+
+On peut décomposer le Back-End en trois parties essentielles :
+- Un serveur
+- Une application
+- Une base de données
 
 ### Définition 'API'
 

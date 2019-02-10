@@ -1,0 +1,17 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "server test pour un épicierie",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test",
+    "server",
+    "node",
+    "expressjs"
+  ],
+  "author": "Bruno Marcelino",
+  "license": "ISC"
+}

@@ -28,12 +28,17 @@ On peut décomposer le Back-End en trois parties essentielles :
 - Une base de données
 
 ### Définition 'API'
+API ou Application Programming Interface c’est-à-dire interface de programmation applicative est une solution informatique qu permet à des application de communiquer entre elles et des s’échanger mutuellement des services ou des données, donc c’est une ensemble de fonction ou de méthode qui facilitent, via un langage de programmation.
 
 ### Définition 'Scrum'
+Scrum est une méthode de travail ou de développement agile orientée projet informatique, le mot Scrum = mêlée dans le monde de rugby,  c’est une cadre de travail holistique itératif dont le buts communs sont en livrant de manière productive et créative des produit de la plus grande valeur possible (MVP), 
 
 ### Définition 'User stories'
+User Story( récit utilisateur) est la description fonctionnelle utilisée dans les méthodes agiles pour spécifier le développement d’une fonctionnalités, en exprimant à qui elle s’adresse et en quoi elle apporte de la valeur c’est-à-dire cas d’utilisation.
 
 ### Définition 'Controle de version'
+Contrôle de version est une catégorie de logiciel qui a pour objectif d’aider les équipes de développement à gérer les changements du code source en tout temps et de travailler en équipes.
+
 
 ### EXERCICE
 
@@ -42,14 +47,29 @@ Un épicier souhaite créer une application web où il peut gérer son stock à 
 - 1 - Quelle technologie front choisis-tu? Pourquoi?
 
     => ANGULAR
+    => - Angular est une framework open source écrit en Javascript
+        - Framework de Google avec une documentation très étoffée
+        - Un framework complet avec une architecture élégante
+        - Un moteur de DI (Injection de Dépendances)
+        - Utilise TypeScript
 
 - 2 - Quelle technologie back choisis-tu? Pourquoi?
 
     => NODEjs
+    => - Le gestion de package npm
+        - Nodejs est rapide (avec l’utilisation de moteur V8)
+        - Le modèle non bloquant
+        - Importante communauté
+        - Performance
+        - Mode asynchrone
+        - Portabilité du code Javascript aussi bien coté serveur que client 
 
 - 3 - Quelle base de donnée utilises-tu? Pourquoi?
 
     => MongoDB
+    => - La rapidité
+        - utilise JSON
+        - La Fléxibilité
 
 - 4 - À combien de temps estimes-tu la charge de travail? Quand penses-tu livrer le test?
 
